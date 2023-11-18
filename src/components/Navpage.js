@@ -37,7 +37,7 @@ const Navpage = () => {
 
     return (
         <>
-            <Navbar className="container-fluid p-0 navbar-harcoderd-class">
+            <Navbar className="container-fluid navbar-harcoderd-class">
                 {/* <Container fluid> */}
                 {/* <Navbar.Brand href="#">Navbar scroll</Navbar.Brand>
                     <Navbar.Toggle aria-controls="navbarScroll" />

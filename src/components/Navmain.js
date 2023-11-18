@@ -3,7 +3,7 @@ import './Navmain.css'
 
 const Navmain = () => {
     return (
-        <div className='container-fluid p-0 container-manualy'>
+        <div className='container-fluid  container-manualy'>
             {/* <div className='homepage'> */}
 
                 <h1>Board of Governors of the Federal Reserve System</h1>

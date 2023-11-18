@@ -12,16 +12,16 @@ import ViewPage from './components/ViewPage';
 function App() {
   return (
     <>
-      <BrowserRouter>
+    <Combine />
+      {/* <BrowserRouter>
         <Routes>
           <Route path="/" element={<Combine />} />
           <Route path="viewpage" element={<ViewPage />}>
-            {/* <Route index element={<Home />} />
-          <Route path="blogs" element={<Blogs />} /> */}
+           
 
           </Route>
         </Routes>
-      </BrowserRouter>
+      </BrowserRouter> */}
 
     </>
   );

@@ -9,13 +9,13 @@ const Combine = () => {
         <>
             <Navpage />
             <Navmain />
-            <div className='container-fliud Middle-Page' style={{
+            {/* <div className='container-fliud Middle-Page' style={{
                 background: '#6a7c94',
                 position: 'relative'
             }}>
                 <MiddlePage />
                 <Footer />
-            </div>
+            </div> */}
         </>
     )
 }
